@@ -1,7 +1,19 @@
-# GERADOR DE SENHA - PASSWORD GENERETOR
+## Olá, este é um simples gerador de senha feito em HTML, CSS e JS
 
-# - Este projeto é um gerador de senha simples, possuindo quatro opções para gerar sua senha, sendo elas letras minúsculas, maiúsculas, números e símbolos.
-# - This project is a simple password generator, having four options to generate your password, being lowercase, uppercase, numbers and symbols.
+Para seu funcionamento, siga os passos abaixo:
+1. Baixe os arquivos
+2. Descompacte todos
+3. Acesse a pasta com o nome "public"
+4. Abra em seu navegador o arquivo nomeado "index.html"
+5. Pronto, só usar!
+---------------------------------------------------
+English Version
 
-- É bem simples de utiliza-lo, basta baixar os arquivos em ZIP e extraí-los onde deseja que as pastas vão continuar organizadas.
-- It's very simple to use, just download the files in ZIP and extract them where you want the folders to remain organized.
+## Hey there, check out this simple password generator I made with HTML, CSS, and JS!
+
+Here's how to use it:
+1. Download the files.
+2. Unzip them.
+3. Open the folder named "public".
+4. Open the file named "index.html" in your browser.
+5. That's it! You're good to go.
